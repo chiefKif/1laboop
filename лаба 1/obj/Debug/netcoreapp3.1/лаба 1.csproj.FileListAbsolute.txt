@@ -1,0 +1,14 @@
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.exe
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.deps.json
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.runtimeconfig.json
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.runtimeconfig.dev.json
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.dll
+C:\ооп лабы\лаба 1\лаба 1\bin\Debug\netcoreapp3.1\лаба 1.pdb
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.csproj.AssemblyReference.cache
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.AssemblyInfoInputs.cache
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.AssemblyInfo.cs
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.csproj.CoreCompileInputs.cache
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.dll
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.pdb
+C:\ооп лабы\лаба 1\лаба 1\obj\Debug\netcoreapp3.1\лаба 1.genruntimeconfig.cache
